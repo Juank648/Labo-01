@@ -1,15 +1,12 @@
 # Mi informacion
 
-## Nombre: 
-    Juan Carlos Alayon Molina
-## Plan de estudios: 
-    14
-## Semestre: 
-    6
-## Correo Institucional:
-    juan.alayon@mail.escuelaing.edu.co
+## Algunos datos personales
+* Nombre: Juan Carlos Alayon Molina
+* Plan de estudios: 14
+* Semestre: 6
+* Correo Institucional: juan.alayon@mail.escuelaing.edu.co
 
-![](https://github.com/Juank648/Labo-01/blob/master/Juan%20Carlos%20Alayon%20Molina/IconoJuan.jpg?raw=true)
+![](https://github.com/Juank648/Labo-01/blob/master/Juan%20Carlos%20Alayon%20Molina/Icono.jpeg?raw=true)
 
 ```
 public class Presentacion {
@@ -22,4 +19,6 @@ public class Presentacion {
 ```
 
 Bienvenidos a mi **GitHub**, soy Juan Carlos mi cumpleanios es el _2 de febrero_. 
-Pueden encontrar mi perfil de Facebook en el siguiente [enlace](facebook.com/juancarlos.alayonmolina),
+Pueden encontrar mi perfil de Facebook en el siguiente [enlace](https://www.facebook.com/juancarlos.alayonmolina).
+
+Actualmente me encuentro estudiando en la Escuela Colombiana de Ingenieria Julio Garavito

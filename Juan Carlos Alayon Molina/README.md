@@ -24,9 +24,17 @@ Pueden encontrar mi perfil de Facebook en el siguiente [enlace](https://www.face
 
 Actualmente me encuentro estudiando en la Escuela Colombiana de Ingenieria Julio Garavito
 
-## Notas de uso de GitHub
+## Siempre recuerda
 
-**_No olvidar las siguientes instrucciones para anadir cambios_**
-1. git add .
-2. git commit -m "Agregue un comentario"
-3. git push https://github.com/Juank648/Labo-01 master
+**_Divide y venceras_**
+1. Dividir: Se divide el problema en subproblemas similares y de menor tamaño.
+2. Conquistar: Se resuelven recursivamente los subproblemas.
+3. Combinar: Se combinan las soluciones parciales para crear una solución al problema original.
+
+## PUNTO 3
+
+
+![](https://github.com/Juank648/Labo-01/blob/master/Juan%20Carlos%20Alayon%20Molina/Icono.jpeg?raw=true)
+
+![](https://github.com/Juank648/Labo-01/blob/master/Juan%20Carlos%20Alayon%20Molina/Icono.jpeg?raw=true)
+

@@ -9,6 +9,9 @@
 ## Correo Institucional:
     juan.alayon@mail.escuelaing.edu.co
 
+![] 
+(https://github.com/Juank648/Labo-01/blob/master/Juan%20Carlos%20Alayon%20Molina/IconoJuan.jpg)
+
 ```
 public class Presentacion {
 

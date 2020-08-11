@@ -6,6 +6,8 @@
     14
 ## Semestre: 
     6
+## Correo Institucional:
+    juan.alayon@mail.escuelaing.edu.co
 
 ```
 public class Presentacion {
@@ -17,4 +19,5 @@ public class Presentacion {
 }
 ```
 
-Bienvenidos a mi **GitHub**, soy Juan Carlos mi cumpleanios es el _2 de febrero_ 
+Bienvenidos a mi **GitHub**, soy Juan Carlos mi cumpleanios es el _2 de febrero_. 
+Pueden encontrar mi perfil de Facebook en el siguiente [enlace](facebook.com/juancarlos.alayonmolina),

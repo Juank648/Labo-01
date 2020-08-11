@@ -9,7 +9,7 @@
 ## Correo Institucional:
     juan.alayon@mail.escuelaing.edu.co
 
-![](https://www.areatecnologia.com/informatica/imagenes/que-es-software.jpg)
+![](https://github.com/Juank648/Labo-01/blob/master/Juan%20Carlos%20Alayon%20Molina/IconoJuan.jpg?raw=true)
 
 ```
 public class Presentacion {

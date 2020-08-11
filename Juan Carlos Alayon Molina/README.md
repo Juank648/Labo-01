@@ -9,8 +9,7 @@
 ## Correo Institucional:
     juan.alayon@mail.escuelaing.edu.co
 
-![] 
-(https://www.areatecnologia.com/informatica/imagenes/que-es-software.jpg)
+![](https://www.areatecnologia.com/informatica/imagenes/que-es-software.jpg)
 
 ```
 public class Presentacion {

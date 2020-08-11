@@ -34,7 +34,7 @@ Actualmente me encuentro estudiando en la Escuela Colombiana de Ingenieria Julio
 ## PUNTO 3
 
 
-![](https://github.com/Juank648/Labo-01/blob/master/Juan%20Carlos%20Alayon%20Molina/Icono.jpeg?raw=true)
+![](https://github.com/Juank648/Labo-01/blob/master/Juan%20Carlos%20Alayon%20Molina/Captura1.png?raw=true)
 
 ![](https://github.com/Juank648/Labo-01/blob/master/Juan%20Carlos%20Alayon%20Molina/Icono.jpeg?raw=true)
 

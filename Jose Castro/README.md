@@ -24,3 +24,11 @@ Realizado en python
 print("Hello world!")
 
 ```
+
+# Parte tres 
+
+* Main\
+![](https://github.com/Juank648/Labo-01/blob/master/Jose%20Castro/Imagenes/Josecastro1.PNG)
+![](https://github.com/Juank648/Labo-01/blob/master/Jose%20Castro/Imagenes/Josecastro3.PNG)
+* Remote\
+![](https://github.com/Juank648/Labo-01/blob/master/Jose%20Castro/Imagenes/Josecastro2.PNG)
